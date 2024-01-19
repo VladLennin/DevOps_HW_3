@@ -1,0 +1,5 @@
+Package: my-cpu-usage-package
+Version: 1.0
+Architecture: all
+Maintainer: Your Name vladilen.marchenko@gmail.com
+Description: CPU Usage Monitoring Script
